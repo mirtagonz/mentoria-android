@@ -9,11 +9,7 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-<<<<<<< HEAD
     <string name="intro_text">Jueves</string>
-=======
-    <string name="intro_text">prueba android 2</string>
->>>>>>> b07df56096c14416ae5f6fad8356faaaa82e207b
     <string name="donuts">Donuts are glazed and sprinkled with candy.</string>
     <string name="ice_cream_sandwiches">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
     <string name="froyo">FroYo is premium self-serve frozen yogurt</string>
